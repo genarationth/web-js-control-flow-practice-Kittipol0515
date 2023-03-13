@@ -1,4 +1,4 @@
-let dayNumber = 5;
+let dayNumber = 1;
 switch (dayNumber) {
     case 0: console.log('Sunday');
     break;
@@ -16,6 +16,4 @@ switch (dayNumber) {
     break;
     default:
     console.log('Invalid item');
-    break;
 }
-
